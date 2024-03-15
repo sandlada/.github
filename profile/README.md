@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-![RMDUST](./profile/Resource/rdw.png)
+![RMDUST](./profile/Resource/intro.png)
 
 
