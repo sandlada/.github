@@ -1,5 +1,3 @@
-## Hi there 👋
+# 👋 Glare labs team
 
-![RMDUST](./profile/Resource/intro.png)
-
-
+![Glare labs logo](./Resource/logo.png)
